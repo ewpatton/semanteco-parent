@@ -39,21 +39,6 @@
     <url>https://github.com/ewpatton/SemantEco</url>
   </scm>
 
-  <modules>
-    <module>common</module>
-    <module>query</module>
-    <module>test</module>
-    <module>facets</module>
-    <module>core</module>
-    <module>servlet-base</module>
-    <module>servlet</module>
-    <module>servlet-websocket</module>
-    <module>webapp</module>
-    <module>annotator-webapp</module>
-    <module>testapp</module>
-    <module>sample-faceted-app</module>
-  </modules>
-
   <dependencyManagement>
     <dependencies>
       <dependency>
